@@ -1,8 +1,8 @@
 # KPCE
 
 ## Requirements
-- transformer
-
+- torch == 1.4.0
+- transformers == 4.2.0
 
 ## Dataset
 sample dataset is release on dataset/
