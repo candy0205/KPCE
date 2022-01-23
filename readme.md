@@ -17,18 +17,10 @@ California is a state in the Pacific Region of the United States of America. Wit
 ```
 
 ## Run on sample data
-1. Concept Extractor
 ```
 python main.py
 ```
-2. Concept Selector  
-First, you need to put the result.json and forest_construction.py in the same folder. Then you can run the random forest and Rule based Pruning
-```
-python3 forest_construction.py
-```
-```
-python3 Rule_based_Pruning.py
-```
+
 ## results
 the results which are labeled by the volunteers are release on results/
 
